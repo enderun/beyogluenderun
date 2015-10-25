@@ -128,13 +128,13 @@ gulp.task 'markdown', ->
 
   pipeline = pipeline.pipe browserSync.reload(stream: true) unless production
 
-gulp.task 'deploy', ['build'], () ->
+gulp.task 'deployPrep', ->
+  production = true
+
+gulp.task 'deploy', ['deployPrep', 'build'], ->
   remoteUrl = url.parse pkg.repository.url
-  # Add travis secure to remote url
   options =
-    remoteUrl: "#{remoteUrl.protocol}//#{process.env.GH_TOKEN}@#{remoteUrl.host}#{remoteUrl.pathname}"
-  gulp.src './public/**/*'
-    .pipe ghPages(options)
+    remoteUrl: pkg.repository.url
 
 gulp.task 'watch', ->
   gulp.watch config.templates.watch, interval: 500, ['templates']

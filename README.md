@@ -1,2 +1,2 @@
 # web
-Web app for muradiye.tk
+Web app for beyogluenderun.com

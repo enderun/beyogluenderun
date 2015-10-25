@@ -132,9 +132,10 @@ gulp.task 'deployPrep', ->
   production = true
 
 gulp.task 'deploy', ['deployPrep', 'build'], ->
-  remoteUrl = url.parse pkg.repository.url
   options =
     remoteUrl: pkg.repository.url
+  gulp.src './public/**/*'
+    .pipe (ghPages options)
 
 gulp.task 'watch', ->
   gulp.watch config.templates.watch, interval: 500, ['templates']

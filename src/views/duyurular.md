@@ -1,4 +1,4 @@
 ## Duyurular
 
-- 2014 - 2015 yılı kontenjanlarımız dolmuştur. İlginize teşekkür ederiz.  
-  14.09.2014
+- 2014 - 2015 Eğitim Öğretim yılı ile beraber yurdumuz açılmıştır. Başvuru için bizimle irtibata geçebilirsiniz. İlginiz için teşekkür ederiz.
+  28.09.2015

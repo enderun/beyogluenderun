@@ -1,9 +1,10 @@
 md-toolbar.md-tall
     span(flex)
-    .md-toolbar-tools.md-toolbar-tools-bottom(layout='column' layout-align='center')
+    .md-toolbar-tools.md-toolbar-tools-bottom(layout='column' layout-align='center center')
       span Beyoğlu Enderun Eğitim Merkezi
   #header
     md-toolbar.md-tall(md-scroll-shrink layout='row' flex)
-      .md-toolbar-tools(layout-align='center')
-        md-button.md-accent(href='tel:0 212 238 88 28') 0(505) 137 13 72
-        md-button.md-accent.no-text-transform(href='mailto:beyogluenderun@gmail.com') beyogluenderun@gmail.com
+      span(flex)
+      .md-toolbar-tools(layout-align='center center')
+        md-button(href='tel:0 212 238 88 28') 0(505) 137 13 72
+        md-button.no-text-transform(href='mailto:beyogluenderun@gmail.com') beyogluenderun@gmail.com

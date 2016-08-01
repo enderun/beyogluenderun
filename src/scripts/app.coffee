@@ -9,7 +9,7 @@ angular.module 'muradiyeWeb', [
   ]
   .config ($mdThemingProvider) ->
     $mdThemingProvider.theme 'default'
-      .primaryPalette 'indigo'
+      .primaryPalette 'blue'
       .accentPalette 'pink'
 
 module.exports = 'muradiyeWeb'

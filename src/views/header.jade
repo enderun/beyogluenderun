@@ -4,8 +4,10 @@ md-toolbar#toolbar.md-tall
       img.logo(src='logo.png')
       span Beyoğlu Enderun Eğitim Merkezi
   #header
-    md-toolbar.md-tall(md-scroll-shrink layout='row' flex)
-      span(flex)
-      .md-toolbar-tools(layout-align='center center')
-        md-button(href='tel:0 212 238 88 28') 0(505) 137 13 72
-        md-button.no-text-transform(href='mailto:beyogluenderun@gmail.com') beyogluenderun@gmail.com
+    md-toolbar.md-tall(md-scroll-shrink layout='column' flex)
+      #tools(layout="column" flex)
+        .md-toolbar-tools(layout-align='center center')
+          md-button(href='tel:0 212 238 88 28') 0(505) 137 13 72
+          md-button.no-text-transform(href='mailto:beyogluenderun@gmail.com') beyogluenderun@gmail.com
+        .md-toolbar-tools(layout-align='center center')
+          md-button.md-accent.md-raised(target="_blank" href="https://goo.gl/forms/Iwa7vISeOInWbQch2") Ön Kayıt

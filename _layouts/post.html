@@ -2,6 +2,9 @@
 	<section class="box special">
 		<h3>{{ page.title }}</h3>
 		<span class="date">{{ page.date | date_to_string }}</span>
+    {% if page.imageUrl %}
+    <span class="image featured"><img src="{{ site.baseurl }}{{ page.imageUrl }}" alt=""></span>
+    {% endif %}
 		{{ page.content }}
 	</section>
 {% include footer.html %}

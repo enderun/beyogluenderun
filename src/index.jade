@@ -29,6 +29,15 @@ head
     ng-include(src="'views/header.html'")
 
     #content(layout='column', flex)
+      md-card
+        div(flex style="background-color: #8EAB93; text-align: center;")
+          img(src='bursluluk-sinavi.jpg' style="max-width: 560px; margin: 0 auto;")
+        md-card-content(flex)
+          h2 Bursluluk Sınavı Başvuruları Başladı
+          p Online başvuru ile siz de hemen yerinizi ayırtın.
+          div(style="text-align: center")
+            md-button.md-accent.md-raised(target="_blank" href="https://goo.gl/forms/Iwa7vISeOInWbQch2") Sınav Başvurusu
+
       md-card.about
         md-card-content(flex ng-include="'views/hakkimizda.html'")
 

@@ -2,11 +2,7 @@
 title: Beyoğlu Enderun
 layout: default
 ---
-<section class="box special">
-	<header class="major">
-		<h2>{{ site.name }}</h2>
-		<p>{{ site.description }}</p>
-	</header>
+<section class="box">
 	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" /></span>
 </section>
 

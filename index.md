@@ -2,10 +2,6 @@
 title: Beyoğlu Enderun
 layout: default
 ---
-<section class="box">
-	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" /></span>
-</section>
-
 <section class="box special features">
 	{% for feature in site.data.home.features %}
 	{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}

@@ -2,6 +2,7 @@
 title: Hakkımızda
 layout: page
 ---
+
 ### Yurdumuz
 İstanbul Beyoğlu ilçesinde, tüm Türkiye'den gelen başarılı öğrencilerin bir araya geldiği ortaokul proje kursumuz 2015 Eylül ayından itibaren faaliyete başlamıştır. Kursumuzda ekseriyeti Cihangir Münir Özkul Ortaokulu olmak üzere Beyoğlu'nun en başarılı ortaokullarına giden 6., 7. ve 8. sınıf öğrencileri kalmaktadır.
 

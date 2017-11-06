@@ -1,8 +1,17 @@
+---
+title: Beyogluenderun
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Beyoğlu Enderun
 description: Başarı enderuna yolculuktur
 meta_keywords: beyoğlu, enderun, ortaokul, proje, yurdu
-meta_description: İstanbul Beyoğlu ilçesinde yer alan Enderun, bünyesinde tüm Türkiye'den başarılı öğrencilerin bir araya getiren ortaokul proje yurdudur.
-# baseurl: '/subpath'
-
-permalink: /:title
+meta_description: İstanbul Beyoğlu ilçesinde yer alan Enderun, bünyesinde tüm Türkiye'den
+  başarılı öğrencilerin bir araya getiren ortaokul proje yurdudur.
+permalink: "/:title"
 paginate: 5

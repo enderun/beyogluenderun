@@ -1,7 +1,8 @@
 ---
 title: Yeni Bir Sezon
+date: 2016-09-20 00:00:00 Z
 layout: post
-imageUrl: /assets/images/pic02.jpg
+imageUrl: "/assets/images/pic02.jpg"
 ---
 
 2016'yı müthiş bir tempo ile tamamladık. Geçen sezonda yakaladığımız %98'lik başarı ortalaması ile bu yıl hedeflerimizi daha da yukarı taşıyoruz.

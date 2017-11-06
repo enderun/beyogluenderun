@@ -2,6 +2,7 @@
 title: Beyoğlu Enderun
 layout: default
 ---
+
 <section class="box special features">
 	{% for feature in site.data.home.features %}
 	{% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}

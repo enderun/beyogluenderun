@@ -3,6 +3,10 @@
 # İkonlar için bkz: http://fontawesome.io/icons/
 ###
 
+featured_button:
+  label: Bursluluk Sınavı
+  href: '#'
+
 features:
   - title: Sosyal Etkinlikler
     icon: fa-camera-retro

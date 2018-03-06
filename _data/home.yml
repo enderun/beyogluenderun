@@ -1,7 +1,8 @@
 ---
----
-
----
+hero:
+  button:
+    label: Bursluluk Sınavı
+    href: '#test'
 features:
 - title: Sosyal Etkinlikler
   icon: fa-camera-retro

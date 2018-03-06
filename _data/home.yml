@@ -2,7 +2,7 @@
 hero:
   button:
     label: Bursluluk Sınavı
-    href: '#test'
+    href: https://goo.gl/forms/Iwa7vISeOInWbQch2
     
 features:
   - title: Sosyal Etkinlikler

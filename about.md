@@ -2,12 +2,14 @@
 title: Hakkımızda
 layout: page
 ---
+### **Yurdumuz**
 
-### Yurdumuz
-İstanbul Beyoğlu ilçesinde, tüm Türkiye'den gelen başarılı öğrencilerin bir araya geldiği ortaokul proje kursumuz 2015 Eylül ayından itibaren faaliyete başlamıştır. Kursumuzda ekseriyeti Cihangir Münir Özkul Ortaokulu olmak üzere Beyoğlu'nun en başarılı ortaokullarına giden 6., 7. ve 8. sınıf öğrencileri kalmaktadır.
+Değişen dünyaya ayak uydurabilen, yeniliklere açık olan,bilgiyi sınav için değil hayat için öğrenen, sadece bilgi yığını olmayıp bildiklerini hayata aktarabilen, soran, sorgulayan, eleştiren seven, sevilen, beyninden önce gönlünden geçiren, her zaman alan değil aynı zamanda vermesini de bilen hareketleri ile örnek, düşünceleri ile önder, yükselen Türkiyenin geleceği olmaya aday bireyler yetiştirmek…
 
-### Misyonumuz
-Ortaokula giden proje talebelerimize çağın bütün imkanlarını sağlayarak "Enderun" ismine yakışır bir şekilde üst düzey eğitim almalarını temin etmek. Sosyal ve kültürel faaliyetler ile zengileştirilmiş eğitim metodlarımızla çocuklarımıza iyi bir gelecek hazırlamak için çift kanatlı bir kuş misali yetişmelerini sağlamak.
+### **Misyonumuz**
 
-### Vizyonumuz
-Her geçen gün imkanlarımızı ve kapasitemizi daha da genişleterek daha parlak ve başarılı bir gelecek inşasında pay sahibi olmak.
+Ülkemizin eğitim hizmetleri çerçevesinde öğrenci yurtları konusundaki beklenti ve ihtiyaçlarını dikkate alarak, öğrencilerimiz için gerekli barınma hizmetlerinin yanı sıra eğitim ihtiyaçlarına cevap vermek, sıcak ortamı ile bir aile yuvası, akademik hizmetleri ile bir eğitim kurumu olmak, kaliteyi sürekli iyileştirme prensibiyle hizmet vererek sektöründe lider ve örnek kuruluş haline gelmektir...
+
+Ortaokula giden öğrencilerimize çağın bütün imkanlarını sağlayarak "Enderun" ismine yakışır bir şekilde üst düzey eğitim almalarını temin etmek. Sosyal ve kültürel faaliyetler ile zengileştirilmiş eğitim metodlarımızla çocuklarımıza iyi bir gelecek hazırlamak için çift kanatlı bir kuş misali yetişmelerini sağlamak.
+
+ 

@@ -1,6 +1,6 @@
 ---
 title: Yeni Bir Sezon
-date: 2016-09-20 00:00:00 Z
+date: 2016-09-20 00:00:00 +0000
 layout: post
 imageUrl: "/assets/images/pic02.jpg"
 ---

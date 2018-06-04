@@ -1,5 +1,4 @@
 ---
-title: Beyoğlu Enderun
 layout: default
 ---
 

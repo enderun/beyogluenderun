@@ -1,8 +1,8 @@
 ---
 hero:
-  button:
-    label: Bursluluk Sınavına Başvur
-    href: https://goo.gl/forms/Iwa7vISeOInWbQch2
+  # button:
+  #   label: Bursluluk Sınavına Başvur
+  #   href: https://goo.gl/forms/Iwa7vISeOInWbQch2
 features:
 - title: Sosyal Etkinlikler
   icon: fa-camera-retro
@@ -18,21 +18,21 @@ features:
   icon: fa-line-chart
   content: Geniş katılımlı düzenli deneme sınavları ile düzey belirleme imkanı.
 cards:
-- imageUrl: "/assets/images/bursluluk-sinavi.jpg"
-  title: Bursluluk Sınavı Başvuruları
-  content: Hemen online başvuru yapın, yerinizi ayırtın.
-  action:
-    label: Başvuru
-    link: https://goo.gl/forms/Iwa7vISeOInWbQch2
-- imageUrl: "/assets/images/pic02.jpg"
-  title: Siz de Katılın
-  content: Başarı kervanında siz de yer alın.
-  action:
-    label: "Ön Başvuru"
-    link: https://goo.gl/forms/Iwa7vISeOInWbQch2
-- imageUrl: "/assets/images/pic03.jpg"
-  title: Bizden Haberler
-  content: Ekibimizden güncellemeler
-  action:
-    label: Haberler
-    link: "/blog"
+# - imageUrl: "/assets/images/bursluluk-sinavi.jpg"
+#   title: Bursluluk Sınavı Başvuruları
+#   content: Hemen online başvuru yapın, yerinizi ayırtın.
+#   action:
+#     label: Başvuru
+#     link: https://goo.gl/forms/Iwa7vISeOInWbQch2
+# - imageUrl: "/assets/images/pic02.jpg"
+#   title: Siz de Katılın
+#   content: Başarı kervanında siz de yer alın.
+#   action:
+#     label: "Ön Başvuru"
+#     link: https://goo.gl/forms/Iwa7vISeOInWbQch2
+# - imageUrl: "/assets/images/pic03.jpg"
+#   title: Bizden Haberler
+#   content: Ekibimizden güncellemeler
+#   action:
+#     label: Haberler
+#     link: "/blog"

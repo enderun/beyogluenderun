@@ -2,8 +2,8 @@
 		<!-- Footer -->
 			<footer id="footer">
 				<ul class="icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					{% if site.twitter %}<li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>{% endif %}
+					{% if site.instagram %}<li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram"><span class="label">Instagram</span></a></li>{% endif %}
 				</ul>
 				<ul class="copyright">
 					<li>&copy; {{ site.time | date: '%Y' }} - {{ site.name }} </li>
@@ -12,6 +12,5 @@
 					<img id="fora-logo" src="http://foralabs.com/images/logo-xs.png" tabindex="0" title="Engineered at Fora Labs">
 	    	</a>
 			</footer>
-
 	</body>
 </html>

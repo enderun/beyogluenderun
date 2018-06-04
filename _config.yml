@@ -1,5 +1,5 @@
 ---
-title: Beyogluenderun
+title: Beyoglu Enderun İlim ve Kültüre Hizmet Derneği
 timezone: Europe/Minsk
 collections:
   posts:
@@ -9,9 +9,7 @@ collections:
     title: Uploads
     output: true
 name: Beyoğlu Enderun
-description: Başarı enderuna yolculuktur
-meta_keywords: beyoğlu, enderun, ortaokul, proje, yurdu
-meta_description: İstanbul Beyoğlu ilçesinde yer alan Enderun, bünyesinde tüm Türkiye'den
-  başarılı öğrencilerin bir araya getiren ortaokul proje yurdudur.
+description: İlim ve Kültüre Hizmet Derneği
+meta_keywords: beyoğlu, enderun, ortaokul, yurdu
 permalink: "/:title"
 paginate: 5

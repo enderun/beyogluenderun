@@ -14,9 +14,9 @@ features:
   icon: fa-smile-o
   content: Ahlaktan yoksun bir başarının bireyin kendisine ve topluma faydası olmayacağı
     düşüncesindeyiz. En fazla kıymet verdiğimiz düstur bireylerin ahlaklı yetişmesidir.
-- title: Deneme Sınavları
-  icon: fa-line-chart
-  content: Geniş katılımlı düzenli deneme sınavları ile düzey belirleme imkanı.
+- title: Sıcak Bir Yuva
+  icon: fa-home
+  content: Enderun bir eğitim kurumu olmanın yanı sıra öğrencilerine sıcak bir yuva ortamında barınma imkanı sağlar.
 cards:
 # - imageUrl: "/assets/images/bursluluk-sinavi.jpg"
 #   title: Bursluluk Sınavı Başvuruları

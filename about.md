@@ -10,6 +10,6 @@ Ortaokula giden öğrencilerimize çağın bütün imkanlarını sağlayarak "En
 
 ### **Vizyonumuz**
 
-Ülkemizin eğitim hizmetleri çerçevesinde öğrenci yurtları konusundaki beklenti ve ihtiyaçlarını dikkate alarak, öğrencilerimiz için gerekli barınma hizmetlerinin yanı sıra eğitim ihtiyaçlarına cevap vermek, sıcak ortamı ile bir aile yuvası, akademik hizmetleri ile bir eğitim kurumu olmak, kaliteyi sürekli iyileştirme prensibiyle hizmet vererek sektöründe lider ve örnek kuruluş haline gelmektir...
+Ülkemizin eğitim hizmetleri çerçevesinde öğrenci yurtları konusundaki beklenti ve ihtiyaçlarını dikkate alarak, öğrencilerimiz için gerekli barınma hizmetlerinin yanı sıra eğitim ihtiyaçlarına cevap vermek, sıcak ortamı ile bir aile yuvası, akademik hizmetleri ile bir eğitim kurumu olmak, kaliteyi sürekli iyileştirme prensibiyle hizmet vererek sektöründe lider ve örnek kuruluş haline gelmektir.
 
  

@@ -1,12 +1,10 @@
 ---
-hero:
-  # button:
-  #   label: Bursluluk Sınavına Başvur
-  #   href: https://goo.gl/forms/Iwa7vISeOInWbQch2
+hero: 
 features:
 - title: Sosyal Etkinlikler
   icon: fa-camera-retro
-  content: Düzenli aralıklarla yapılan sosyal etkinlikler.
+  content: Düzenli aralıklarla yapılan sosyal etkinlikler ile öğrencilerimize motivasyon
+    sağlıyoruz.
 - title: Etüt Desteği
   icon: fa-area-chart
   content: Etütte bireysel destek veren yüksek eğitimli personeller.
@@ -16,23 +14,6 @@ features:
     düşüncesindeyiz. En fazla kıymet verdiğimiz düstur bireylerin ahlaklı yetişmesidir.
 - title: Sıcak Bir Yuva
   icon: fa-home
-  content: Enderun bir eğitim kurumu olmanın yanı sıra öğrencilerine sıcak bir yuva ortamında barınma imkanı sağlar.
-cards:
-# - imageUrl: "/assets/images/bursluluk-sinavi.jpg"
-#   title: Bursluluk Sınavı Başvuruları
-#   content: Hemen online başvuru yapın, yerinizi ayırtın.
-#   action:
-#     label: Başvuru
-#     link: https://goo.gl/forms/Iwa7vISeOInWbQch2
-# - imageUrl: "/assets/images/pic02.jpg"
-#   title: Siz de Katılın
-#   content: Başarı kervanında siz de yer alın.
-#   action:
-#     label: "Ön Başvuru"
-#     link: https://goo.gl/forms/Iwa7vISeOInWbQch2
-# - imageUrl: "/assets/images/pic03.jpg"
-#   title: Bizden Haberler
-#   content: Ekibimizden güncellemeler
-#   action:
-#     label: Haberler
-#     link: "/blog"
+  content: Enderun bir eğitim kurumu olmanın yanı sıra öğrencilerine sıcak bir yuva
+    ortamında barınma imkanı sağlar.
+cards: 
